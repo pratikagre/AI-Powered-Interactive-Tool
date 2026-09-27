@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import { generateRealisticMock } from './mockData';
+import { generateRealisticMock } from '../src/data/mockData';
 
 dotenv.config();
 

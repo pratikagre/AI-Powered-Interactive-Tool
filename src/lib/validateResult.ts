@@ -1,4 +1,4 @@
-import { AppError, Flashcard, QuizOption, QuizQuestion, StudySetResult, ValidationResult } from '../types/result';
+import { Flashcard, QuizOption, QuizQuestion, ValidationResult } from '../types/result';
 
 /**
  * Strips markdown code fences (```json ... ``` or ``` ...) if present,
